@@ -2,10 +2,10 @@
     The Captaan
     Date: 2023-08-15
     Time: 8:30:00
-    Last Modified: 2023-08-15, 8:30:00
+    Last Modified: 2023-08-21, 03:180:00
     Filename: linearSearch.c
     Description:
-
+         Linear search is a simple algorithm that sequentially searches for a target value through a list, checking each element until a match is found or the list is exhausted.
 
 */
 
