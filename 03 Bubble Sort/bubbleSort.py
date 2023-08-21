@@ -3,7 +3,7 @@
     Date: 2023-08-16
     Time: 8:30:00
     Last Modified: 2023-08-16, 8:30:00
-    Filename: linearSearch.c
+    Filename: bubbleSort.py
     Description:
         Bubble sort is a simple sorting algorithm that repeatedly steps through a list, compares adjacent elements, and swaps them if they are in the wrong order, gradually moving larger elements to the end.
 """
