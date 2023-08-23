@@ -5,8 +5,7 @@
     Last Modified: 2023-08-17, 8:30:00
     Filename: insertionSort.c
     Description:
-        Bubble sort is a simple sorting algorithm that repeatedly steps through a list, compares adjacent elements, and swaps them if they are in the wrong order, gradually moving larger elements to the end.
-
+        Insertion sort is a sorting algorithm that builds the final sorted list one item at a time by inserting each element into its correct position among the previously sorted elements.
 */
 #include <stdio.h>
 void insertionSort(int arr[], int n)
@@ -25,7 +24,7 @@ void insertionSort(int arr[], int n)
 }
 int main(void)
 {
-    int arr[] = {5, 4, 3, 2, 1};
+    int arr[] = {53, 1, 10, 80, 48, 78, 17, 57, 0, 13, 40, 65, 20};
     int n = sizeof(arr) / sizeof(arr[0]);
     insertionSort(arr, n);
     for (int i = 0; i < n; i++)
